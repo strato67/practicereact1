@@ -1,0 +1,31 @@
+[
+    {
+        "id":"slide1",
+        "img":"https://placeimg.com/800/400/arch",
+        "heading":"Great Experiences",
+        "prev":"#slide4",
+        "next":"#slide2"
+    },
+    {
+        "id":"slide2",
+        "img":"https://placeimg.com/800/400/nature",
+        "heading":"Fun Adventures",
+        "prev":"#slide1",
+        "next":"#slide3"
+    },
+    {
+        "id":"slide3",
+        "img":"https://placeimg.com/800/400/arch",
+        "heading":"Amazing Places",
+        "prev":"#slide2",
+        "next":"#slide4"
+    },
+    {
+        "id":"slide4",
+        "img":"https://placeimg.com/800/400/nature",
+        "heading":"Incredible Views",
+        "prev":"#slide3",
+        "next":"#slide1"
+    }
+
+]
